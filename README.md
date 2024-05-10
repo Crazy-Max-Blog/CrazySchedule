@@ -1,4 +1,4 @@
-see# CrazySchedule
+# CrazySchedule
 
 ## Инфа
 Этот бот по расписанию кидает различные сообщения.
