@@ -1,4 +1,5 @@
 {
+    "TZ":"TimmeZone",
     "TOKEN":"Bot token",
     "ID":"Chat ID"
 }
