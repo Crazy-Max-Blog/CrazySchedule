@@ -1,5 +1,5 @@
 {
-    "TZ":"TimmeZone",
+    "TZ":"TimeZone",
     "TOKEN":"Bot token",
     "ID":"Chat ID"
 }
