@@ -1,8 +1,12 @@
 from requests import get
 import time, os
-os.environ['TZ'] = 'Europe/Saratov'
+
 d={}
 m={}
+
+getData()
+
+os.environ['TZ'] = d['TZ']
 dt=time.strftime("%d.%m.%Y")
 time.tzset()
 print(time.strftime("%H.%M"))
